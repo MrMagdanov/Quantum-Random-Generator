@@ -1,1 +1,0 @@
-# Quantum-Random-Generator
